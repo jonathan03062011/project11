@@ -1,0 +1,12 @@
+.heading{
+    width: 100%;
+    font-size: 25px;
+    margin: 0px;
+}
+.inner_div{
+    background-color: white;
+    border-radius:20px ;
+    color: black;
+    float: none;
+    padding: 10px;
+}
